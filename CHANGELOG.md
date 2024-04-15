@@ -1,3 +1,6 @@
+# 1.0.1
+- Add config `XComGameData_SoldierSkills.ini` config to make sure the 2AP firing ability qualifies for Lost headshots
+
 # 1.0.0
 - The following ABBA Weapons will cost 2AP to fire:
 	- Auto-Sniper Rifles
