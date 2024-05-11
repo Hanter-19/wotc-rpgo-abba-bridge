@@ -19,6 +19,9 @@
     <Content Include="Config\XComGameData_SoldierSkills.ini">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Config\XComRPGOxABBA.ini">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Config\XComTemplateEditor.ini">
       <SubType>Content</SubType>
     </Content>
